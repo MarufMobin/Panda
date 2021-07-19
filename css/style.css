@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* header-section start*/
+.panda-banner-section{
+    border-radius: 20px;
+}
+.header-section .panda-round{
+    border-radius: 30px;
+}
+.header-section .panda-form-width{
+    width: 500px; 
+    padding: 12px 0px 12px 15px;
+}
+.header-section .panda-icon{
+    font-size: 18px;
+    position: relative;
+    right: 50px;
+    background: transparent;
+    color: #ced4da;
+}
+.header-section .panda-form-width::placeholder{
+    color: #ced4da;
+    font-size: 18px;
+}
+.panda-banner-section{
+    background-color: #fceae8;
+}
+/* header-section end*/
