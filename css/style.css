@@ -75,3 +75,13 @@
     border-radius: 15px;
 }
 /* catagory section code end here */
+
+/* mass-container */
+.mass-main-container{
+    margin-top: 120px;
+    margin-bottom: 80px;
+}
+.mass-container{
+  border-radius: 10px;
+  background-color: #fceae8;
+}
