@@ -29,4 +29,49 @@
 .panda-banner-section{
     background-color: #fceae8;
 }
+.panda-info-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-price {
+    color: #FF136F;
+}
+.panda-info-btn:hover{
+    background-image: linear-gradient(to bottom,#000000 100%, #110007 0% );
+    color: #fff;
+    border: none;
+}
 /* header-section end*/
+
+/* catagory section code start here */
+.panda-cetagory-round h2{
+    font-size: 36px;
+    color: #fff;
+}
+.panda-cetagory-round{
+    border-radius: 15px;
+}
+.panda-cetagory-bg-one{
+    background-color: orange;
+    padding: 15px;
+}
+.panda-cetagory-bg-two{
+    background-color: orchid;
+    padding: 15px;
+}
+.panda-cetagory-bg-three{
+    background-color: blue;
+    padding: 15px;
+}
+.panda-cetagory-bg h2{
+    color: #fff;
+    font-size: 42px;
+    margin-left: 15px;
+}
+.panda-cetagory-round{
+    border-radius: 15px;
+}
+/* catagory section code end here */
